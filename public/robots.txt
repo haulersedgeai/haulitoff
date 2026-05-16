@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.haulitoffaz.com
+
+# Sitemaps
+Sitemap: https://www.haulitoffaz.com/sitemap.xml
